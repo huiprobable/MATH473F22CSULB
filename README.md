@@ -30,22 +30,26 @@ The following listing links to the notebooks in this repository, rendered throug
 * 1.3 [Jupyter Notebook and Markdown Language](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Markdown.ipynb)
 * 1.4 [Introduction to Python](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec01.ipynb)
 
-### 2. Jupyter
+### 2. [NumPy](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb)
+* 2.1 [What is an array?](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#What-is-an-array?)
+* 2.2 [Creating arrays](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Creating-arrays)
+* 2.3 [Array maths](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Array-maths)
+* 2.3 [Indexing and Slicing](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Indexing-and-Slicing)
+* 2.3 [Types of operations](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Types-of-operations)
+* 2.3 [Linear algebra and other advanced math](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Linear-algebra-and-other-advanced-math)
 
-### 3. NumPy
+### 3. Pandas
 
-### 4. Pandas
+### 4. Data visualization with Matplotlib
 
-### 5. Data visualization with Matplotlib
+### 5. Data formats with Pandas and Numpy
 
-### 6. Data formats with Pandas and Numpy
+### 6. SciPy
 
-### 7. SciPy
+### 7. Linear Algebra and Systems of Linear Equations
 
-### 8. Linear Algebra and Systems of Linear Equations
+### 8. Eigenvalues and Eigenvectors Problem
 
-### 9. Eigenvalues and Eigenvectors Problem
+### 9. Numerical Differentiation
 
-### 10. Numerical Differentiation
-
-### 11. Numerical Integration
+### 10. Numerical Integration
