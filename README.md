@@ -34,9 +34,9 @@ The following listing links to the notebooks in this repository, rendered throug
 * 2.1 [What is an array?](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#What-is-an-array?)
 * 2.2 [Creating arrays](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Creating-arrays)
 * 2.3 [Array maths](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Array-maths)
-* 2.3 [Indexing and Slicing](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Indexing-and-Slicing)
-* 2.3 [Types of operations](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Types-of-operations)
-* 2.3 [Linear algebra and other advanced math](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Linear-algebra-and-other-advanced-math)
+* 2.4 [Indexing and Slicing](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Indexing-and-Slicing)
+* 2.5 [Types of operations](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Types-of-oper5tions)
+* 2.6 [Linear algebra and other advanced math](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Linear-algebra-and-other-advanced-math)
 
 ### 3. Pandas
 
