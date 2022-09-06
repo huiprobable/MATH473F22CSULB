@@ -40,14 +40,18 @@ The following listing links to the notebooks in this repository, rendered throug
 * 2.6 [Linear algebra and other advanced math](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Linear-algebra-and-other-advanced-math)
 * **[Assignment #2](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Assignments/Assignment02.ipynb)** *Due Aug 30, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
-### 3. [Pandas](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb)(*[Lecture04 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EQY27uwpy7pPt14TY1cvHIIB5QcH-a9lWkjMLOlRAXENvQ?e=cjyF7e) covering Lecture 3.1*)
+### 3. [Pandas]((https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb)(*[Lecture04 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EQY27uwpy7pPt14TY1cvHIIB0U4J7uBX_CbvEYxFMjZPow?e=tH5KjW) covering Lecture 3.1-3.2*)
 * 3.1 [Intro](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb#Questions:)
 * 3.2 [What’s in a dataframe?](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb#What’s-in-a-dataframe?)
 * 3.3 [Working with dataframes](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb#Working-with-dataframes)
 * 3.4 [Time series superpowers](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb#Time-series-superpowers)
 * 3.5 [Beyond the basics](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb#Beyond-the-basics)
 
-### 4. Data visualization with Matplotlib
+### 4. [Data visualization with Matplotlib](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb)
+* 4.1 [Intro](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Questions)
+* 4.2 [Getting started with Matplotlib](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Getting_started_with_Matplotlib)
+* 4.3 [Matplotlib has two different interfaces](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Matplotlib_has_two_different_interfaces)
+* 4.4 [Exercises: Styling and customization](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Exercises:_Styling_and_customization)
 
 ### 5. Data formats with Pandas and Numpy
 
