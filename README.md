@@ -40,7 +40,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * 2.6 [Linear algebra and other advanced math](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Linear-algebra-and-other-advanced-math)
 * **[Assignment #2](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Assignments/Assignment02.ipynb)** *Due Sep 6, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
-### 3. [Pandas](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb) (*[Lecture04 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EQY27uwpy7pPt14TY1cvHIIB0U4J7uBX_CbvEYxFMjZPow?e=tH5KjW) covering Lecture 3.1-3.2*)
+### 3. [Pandas](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb) (*[Lecture04 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EQY27uwpy7pPt14TY1cvHIIB0U4J7uBX_CbvEYxFMjZPow?e=tH5KjW) covering Lecture 3.1-3.2*)(*[Lecture05 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/ETViGa4UB9hOlCQWfyH-howB-GyDWmLtLeZF0IN14K1rUQ?e=csPN3j) covering Lecture 3.3-3.5*)
 * 3.1 [Intro](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb#Questions:)
 * 3.2 [What’s in a dataframe?](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb#What’s-in-a-dataframe?)
 * 3.3 [Working with dataframes](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec03_pandas.ipynb#Working-with-dataframes)
