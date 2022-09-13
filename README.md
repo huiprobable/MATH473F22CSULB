@@ -52,7 +52,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * 4.2 [Getting started with Matplotlib](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Getting_started_with_Matplotlib)
 * 4.3 [Matplotlib has two different interfaces](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Matplotlib_has_two_different_interfaces)
 * 4.4 [Exercises: Styling and customization](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Exercises:_Styling_and_customization)
- **[Assignment #3](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Assignments/Assignment03.ipynb)** *Due Sep 20, 11:59pm. Please submit one .ipynb file to Beachboard.*
+* **[Assignment #3](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Assignments/Assignment03.ipynb)** *Due Sep 20, 11:59pm. Please submit one .ipynb file to Beachboard.*
  
 ### 5. [SciPy](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb)
 * 5.1 [Difference between NumPy and SciPy](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb#difference_between_NumPy_and_SciPy)
