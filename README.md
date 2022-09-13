@@ -52,10 +52,13 @@ The following listing links to the notebooks in this repository, rendered throug
 * 4.2 [Getting started with Matplotlib](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Getting_started_with_Matplotlib)
 * 4.3 [Matplotlib has two different interfaces](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Matplotlib_has_two_different_interfaces)
 * 4.4 [Exercises: Styling and customization](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Exercises:_Styling_and_customization)
-
-### 5. Data formats with Pandas and Numpy
-
-### 6. SciPy
+ **[Assignment #3](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Assignments/Assignment03.ipynb)** *Due Sep 20, 11:59pm. Please submit one .ipynb file to Beachboard.*
+ 
+### 5. [SciPy](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb)
+* 5.1 [Difference between NumPy and SciPy](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb#difference_between_NumPy_and_SciPy)
+* 5.2 [Difference between numpy ndarray and scipy sparse matrices](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb#Difference_between_numpy_ndarray_and_scipy_sparse_matrices)
+* 5.3 [Basic linear algebra operations](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb#Basic_linear_algebra_operations)
+* 5.4 [Matrix factorizations and iterative methods](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb#Matrix_factorizations_and_iterative_methods)
 
 ### 7. Linear Algebra and Systems of Linear Equations
 
