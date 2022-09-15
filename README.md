@@ -1,4 +1,4 @@
-﻿# MATH473F22CSULB
+# MATH473F22CSULB
 
 MATH 473 - Scientific Computing, Fall 2022
 
@@ -54,11 +54,12 @@ The following listing links to the notebooks in this repository, rendered throug
 * 4.4 [Exercises: Styling and customization](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec04_Matplotlib.ipynb#Exercises:_Styling_and_customization)
 * **[Assignment #3](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Assignments/Assignment03.ipynb)** *Due Sep 20, 11:59pm. Please submit one .ipynb file to Beachboard.*
  
-### 5. [SciPy](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb)
+### 5. [SciPy](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb)(*[Lecture07 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/ESf5ifV4Lm1IqiMM_wPnhisBTvvKpUN2R_N8iW_5_wGsdQ?e=TYpGrc) covering 5.1-5.2*)
 * 5.1 [Difference between NumPy and SciPy](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb#difference_between_NumPy_and_SciPy)
 * 5.2 [Difference between numpy ndarray and scipy sparse matrices](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb#Difference_between_numpy_ndarray_and_scipy_sparse_matrices)
 * 5.3 [Basic linear algebra operations](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb#Basic_linear_algebra_operations)
 * 5.4 [Matrix factorizations and iterative methods](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec05_sciPy.ipynb#Matrix_factorizations_and_iterative_methods)
+* **[Book Chapter on Iterative Methods](https://bbcsulb.desire2learn.com/d2l/le/lessons/882925/units/10457736) posted in Beachboard**
 
 ### 7. Linear Algebra and Systems of Linear Equations
 
