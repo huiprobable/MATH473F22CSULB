@@ -62,7 +62,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * **[Book Chapter on Iterative Methods](https://bbcsulb.desire2learn.com/d2l/le/lessons/882925/units/10457736) posted in Beachboard**
 
 ### 6. Linear Algebra and Systems of Linear Equations
-* 6.1 [Direct method]()(*[Lecture09 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EfYNbXrYorBHsPaWp8gjuCkB5JOkMFMKIbqEzpBQ_BmzfA?e=PZSkFC)*)
+* 6.1 [Direct method](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec06_DirectMethod.ipynb)(*[Lecture09 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EfYNbXrYorBHsPaWp8gjuCkB5JOkMFMKIbqEzpBQ_BmzfA?e=PZSkFC), covering Gaussian Elimination, [Notes](https://bbcsulb.desire2learn.com/d2l/le/lessons/882925/units/10466326) has been posted in BeachBoard.*)
 * 6.2 Iterative method
 
 ### 8. Eigenvalues and Eigenvectors Problem
