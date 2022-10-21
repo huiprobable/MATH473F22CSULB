@@ -70,3 +70,4 @@ The following listing links to the notebooks in this repository, rendered throug
 
 ### 7. Fourier Transform and applications. 
 * 7.1 [DFT and FFT](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec09_FFT.ipynb)(**[Lecture17 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/Ed0I-v08KTxPlY2NDqowy3sBd7ah9kQLQbszRZTrixQ4mg?e=T2piNP)**)
+* 7.2 Theoretical aspects of DFT. **[Lecture18 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EeclI5mAyZVHpTmAS8PDitsBKqZIikVDCfT4_T859-xFbA?e=5O2nX8)**, related hand-written notes linked [here](https://bbcsulb.desire2learn.com/d2l/le/lessons/882925/units/10466326). 
