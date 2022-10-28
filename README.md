@@ -71,6 +71,7 @@ The following listing links to the notebooks in this repository, rendered throug
 ### 7. Fourier Transform and applications. 
 * 7.1 [DFT and FFT](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec09_FFT.ipynb)(**[Lecture17 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/Ed0I-v08KTxPlY2NDqowy3sBd7ah9kQLQbszRZTrixQ4mg?e=T2piNP)**)
 * 7.2 Theoretical aspects of DFT. **[Lecture18 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EeclI5mAyZVHpTmAS8PDitsBKqZIikVDCfT4_T859-xFbA?e=5O2nX8)**, related hand-written notes linked [here](https://bbcsulb.desire2learn.com/d2l/le/lessons/882925/units/10466326). 
-* 7.3 Theoretical, IDFT and FFT. **[Lecture19 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EbqIMbx8uQpHl1NlI044X54Bee8UonCajsDi_a_kbi0KVw?e=s6rYle)**, related hand-written notes linked [here](https://bbcsulb.desire2learn.com/d2l/le/lessons/882925/units/10466326). 
+* 7.3 Theoretical, IDFT and FFT. **[Lecture19 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EbqIMbx8uQpHl1NlI044X54Bee8UonCajsDi_a_kbi0KVw?e=s6rYle)**, related hand-written notes linked [here](https://bbcsulb.desire2learn.com/d2l/le/lessons/882925/units/10466326). **[Lecture20 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EV4XbiZPCApFoUBjrXDn9k4BG7w2GmgbFKVq9I0IMo-abA?e=AWJIsd)**
+* 7.4 FFT 2D. 
 
 ### 8. [Fianl project](https://csulb-my.sharepoint.com/:w:/g/personal/paul_sun_csulb_edu/EVL03tNv3EtBlyVkYJBo0wkBQBdljkOeMhXoQ_FaTn5TGg?e=pt7Vel)
