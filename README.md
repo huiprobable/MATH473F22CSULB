@@ -74,4 +74,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * 7.3 Theoretical, IDFT and FFT. **[Lecture19 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EbqIMbx8uQpHl1NlI044X54Bee8UonCajsDi_a_kbi0KVw?e=s6rYle)**, related hand-written notes linked [here](https://bbcsulb.desire2learn.com/d2l/le/lessons/882925/units/10466326). **[Lecture20 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EV4XbiZPCApFoUBjrXDn9k4BG7w2GmgbFKVq9I0IMo-abA?e=AWJIsd)**
 * 7.4 FFT 2D. 
 
-### 8. [Fianl project](https://csulb-my.sharepoint.com/:w:/g/personal/paul_sun_csulb_edu/EVL03tNv3EtBlyVkYJBo0wkBQBdljkOeMhXoQ_FaTn5TGg?e=pt7Vel)
+### 8. Fourier Transform for solving PDEs.
+* 8.1 [FFT for derivatives](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec10_FFT_PDEs.ipynb) **[Lecture21 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EQFp0YkrUXxOlCEumllCt4QBa4RG46GwvNdgXGM05gDn-g?e=KN9f4V)**
+
+### 9. [Fianl project](https://csulb-my.sharepoint.com/:w:/g/personal/paul_sun_csulb_edu/EVL03tNv3EtBlyVkYJBo0wkBQBdljkOeMhXoQ_FaTn5TGg?e=pt7Vel)
