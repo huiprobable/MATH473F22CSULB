@@ -76,6 +76,10 @@ The following listing links to the notebooks in this repository, rendered throug
 
 ### 8. [Fourier Transform for solving PDEs.](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec10_FFT_PDEs.ipynb)
 * 8.1 FFT for derivatives **[Lecture21 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EQFp0YkrUXxOlCEumllCt4QBa4RG46GwvNdgXGM05gDn-g?e=KN9f4V)**
-* 8.2 FFT for solving PDEs **[Lecture22 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EX0lk3LE6T9EnXphtM-A7ewB2AsSgU_jBJQEe15lth3Otg?e=fvF4bf)
+* 8.2 FFT for solving PDEs **[Lecture22 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EX0lk3LE6T9EnXphtM-A7ewB2AsSgU_jBJQEe15lth3Otg?e=fvF4bf)**
 
-### 9. [Fianl project](https://csulb-my.sharepoint.com/:w:/g/personal/paul_sun_csulb_edu/EVL03tNv3EtBlyVkYJBo0wkBQBdljkOeMhXoQ_FaTn5TGg?e=pt7Vel)
+### 9. [Image Filtering]
+* 9.1 [In the physical space](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec11_Convolution.ipynb)**[Lecture23 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EerLBLLo9BJDnqalLBmSU9cBokmkz5gun1QEchUk8Ad7qA?e=rJjE0i)**
+* 10.1 In the frequency space, using FFT
+
+### 10. [Fianl project](https://csulb-my.sharepoint.com/:w:/g/personal/paul_sun_csulb_edu/EVL03tNv3EtBlyVkYJBo0wkBQBdljkOeMhXoQ_FaTn5TGg?e=pt7Vel)
