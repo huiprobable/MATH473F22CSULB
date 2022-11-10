@@ -81,5 +81,6 @@ The following listing links to the notebooks in this repository, rendered throug
 ### 9. [Image Filtering]
 * 9.1 [In the physical space](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec11_Convolution.ipynb)**[Lecture23 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EerLBLLo9BJDnqalLBmSU9cBokmkz5gun1QEchUk8Ad7qA?e=rJjE0i)**
 * 10.1 In the frequency space, using FFT
+* **[Assignment #6](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Assignments/Assignment06.ipynb)** *Due Dec 1, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
 ### 10. [Fianl project](https://csulb-my.sharepoint.com/:w:/g/personal/paul_sun_csulb_edu/EVL03tNv3EtBlyVkYJBo0wkBQBdljkOeMhXoQ_FaTn5TGg?e=pt7Vel)
