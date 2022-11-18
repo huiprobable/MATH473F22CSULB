@@ -80,7 +80,7 @@ The following listing links to the notebooks in this repository, rendered throug
 
 ### 9. [Image Filtering]
 * 9.1 [In the physical space](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec11_Convolution.ipynb)**[Lecture23 video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EerLBLLo9BJDnqalLBmSU9cBokmkz5gun1QEchUk8Ad7qA?e=rJjE0i)**
-* 10.1 [In the frequency space, using FFT](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec12_FFTConvolution.ipynb)**[Lecture25 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EcH2PrOQIABBkhG4d9ZZVmUBAGSvIU-SST3pv-TviZRMGg?e=Q7T1Ss)**
+* 10.1 [In the frequency space, using FFT](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Lectures/Lec12_FFTConvolution.ipynb)**[Lecture25 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EcH2PrOQIABBkhG4d9ZZVmUBAGSvIU-SST3pv-TviZRMGg?e=Q7T1Ss), [Lecture26 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EYEj26qz29JDs7W5o5O-GyMBlOcVppsKgVr47Aw1KjiQZw?e=ydcrk1)**
 * **[Assignment #6](https://nbviewer.org/github/huiprobable/MATH473F22CSULB/blob/main/Assignments/Assignment06.ipynb)** *Due Dec 1, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
 ### 10. [Fianl project](https://csulb-my.sharepoint.com/:w:/g/personal/paul_sun_csulb_edu/EVL03tNv3EtBlyVkYJBo0wkBQBdljkOeMhXoQ_FaTn5TGg?e=pt7Vel)
